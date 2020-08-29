@@ -1,4 +1,5 @@
-## Hello World! :) <img src="https://media2.giphy.com/media/LW5vBvAb48Oe9OoEKT/source.gif" width="30px"></h2>
+## Hello World! :)
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/LW5vBvAb48Oe9OoEKT/source.gif" />
 
 - discord: straggly#2073
 - mcm: [click me](https://www.mc-market.org/members/127080/)
