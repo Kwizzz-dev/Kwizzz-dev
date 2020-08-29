@@ -1,4 +1,4 @@
-## Hello World! :)
+## Hello! :)
 <img align="right" width="400px" height="250px" alt="GIF" src="https://media2.giphy.com/media/LW5vBvAb48Oe9OoEKT/source.gif" />
 
 - discord: straggly#2073
