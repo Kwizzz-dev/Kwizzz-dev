@@ -1,6 +1,4 @@
-## Hello! :)
-<img align="right" width="400px" height="250px" alt="GIF" src="https://media2.giphy.com/media/LW5vBvAb48Oe9OoEKT/source.gif" />
-
-- discord: straggly#2073
-- mcm: [click me](https://www.mc-market.org/members/127080/)
-- spigot: [click me](https://www.spigotmc.org/members/projectjeeb.589023/)
+# Welcome to my page! 👋
+My name is Wizz and I am a 16-year-old Java developer interested in Software & Game development.  I'm from and live in England.
+## 📱 Contact
+> You can contact me via Discord - Wizz#0682
